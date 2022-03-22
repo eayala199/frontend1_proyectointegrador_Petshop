@@ -293,6 +293,11 @@ main h2{
     background-color: #F0A83E;
 }
 
+.formularioMain ::placeholder {
+    color: white;
+    padding-left: 14px;
+}
+
 
 
 
